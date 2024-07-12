@@ -10,10 +10,10 @@ In this section, we investigate bar coupons to determine the most effective use 
 	•	Those without children in their vehicles, especially if not working in farming, forestry, or fishing, are more likely to visit bars when receiving coupons. (Graph shows that frequent bar visitors use more bar coupons.)
 	•	Widows and the separated are also somewhat more likely to visit bars. (Leftmost graph shows that frequent bar visitors use more bar coupons.)
 
-![acceptance_age_freq](Images/acceptance_age_freq.png)
-![acceptance_age_freq](Images/acceptance_by_combined_categories.png)
-![acceptance_age_freq](Images/acceptance_by_distance_temp.png)
-![acceptance_age_freq](Images/acceptance_by_time_age.png)
+![acceptance_age_freq](images/acceptance_age_freq.png)
+![acceptance_age_freq](images/acceptance_by_combined_categories.png)
+![acceptance_age_freq](images/acceptance_by_distance_temp.png)
+![acceptance_age_freq](images/acceptance_by_time_age.png)
 
 
 
@@ -27,10 +27,12 @@ In this section, we conduct an independent investigation on coffee shop coupons.
 	•	The highest likelihood of coupon use is around 10 AM, with a noticeable increase around 2 PM. (Top left graph.)
 	•	Individuals under 26 are more likely to accept the coupons. (Top right graph shows that people within a range visit more.)
 
-![acceptance_age_freq](Images/acceptance_overall.png)
-![acceptance_age_freq](Images/acceptance_by_several_criteria.png)
-![acceptance_age_freq](Images/acceptance_freq.png)
-![acceptance_age_freq](Images/acceptance_pass_freq_occ.png)
+![acceptance_age_freq](images/acceptance_overall.png)
+![acceptance_age_freq](images/acceptance_by_several_criteria.png)
+![acceptance_age_freq](images/acceptance_freq.png)
+![acceptance_age_freq](images/acceptance_pass_freq_occ.png)
+
+
 ###Summary
 
 There are more insights to be derived from the charts, but these are the most useful. By combining several of these categories, we can identify a small yet effective group to target, with about two-thirds of this group responding positively to coupon delivery, thus optimizing the associated costs.
